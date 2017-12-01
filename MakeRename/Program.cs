@@ -72,8 +72,8 @@ namespace MakeRename
 
                 string oldValue = dr.FindElementById("userUserName").GetAttribute("value");
 
-
-                
+                if(oldValue.Contains(st.Set["suffix"]))
+                    return null;
 
                 var newValue = $"{oldValue}{st.Set["suffix"]}";
 
