@@ -16,7 +16,7 @@ namespace MakeRename
             Set = new Dictionary<string, string>();
             Set.Add("file", @"C:\my_work_files\pinterest\source_all_account_for_blaster.txt");
             Set.Add("result", @"C:\my_work_files\pinterest\source_all_account_for_blaster_renamed.txt");
-            Set.Add("result_bad", @"C:\my_work_files\pinterest\errors_rename.txt");
+            Set.Add("result_bad", @"C:\my_work_files\pinterest\reset.txt");
             Set.Add("result_good", @"C:\my_work_files\pinterest\add_me.csv");
             Set.Add("suffix", "_qf");
            

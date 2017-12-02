@@ -1,8 +1,8 @@
-c:\users\maugu\documents\visual studio 2017\Projects\MakeRename\MakeRename\obj\Debug\MakeRename.csprojResolveAssemblyReference.cache
-c:\users\maugu\documents\visual studio 2017\Projects\MakeRename\MakeRename\bin\Debug\MakeRename.exe.config
 c:\users\maugu\documents\visual studio 2017\Projects\MakeRename\MakeRename\bin\Debug\MakeRename.exe
-c:\users\maugu\documents\visual studio 2017\Projects\MakeRename\MakeRename\bin\Debug\MakeRename.pdb
 c:\users\maugu\documents\visual studio 2017\Projects\MakeRename\MakeRename\bin\Debug\WebDriver.dll
-c:\users\maugu\documents\visual studio 2017\Projects\MakeRename\MakeRename\bin\Debug\WebDriver.xml
-c:\users\maugu\documents\visual studio 2017\Projects\MakeRename\MakeRename\obj\Debug\MakeRename.exe
-c:\users\maugu\documents\visual studio 2017\Projects\MakeRename\MakeRename\obj\Debug\MakeRename.pdb
+C:\Users\maugu\Documents\Visual Studio 2017\Projects\MakeRename\MakeRename\bin\Debug\MakeRename.exe.config
+C:\Users\maugu\Documents\Visual Studio 2017\Projects\MakeRename\MakeRename\bin\Debug\MakeRename.pdb
+C:\Users\maugu\Documents\Visual Studio 2017\Projects\MakeRename\MakeRename\bin\Debug\WebDriver.xml
+C:\Users\maugu\Documents\Visual Studio 2017\Projects\MakeRename\MakeRename\obj\Debug\MakeRename.csprojResolveAssemblyReference.cache
+C:\Users\maugu\Documents\Visual Studio 2017\Projects\MakeRename\MakeRename\obj\Debug\MakeRename.exe
+C:\Users\maugu\Documents\Visual Studio 2017\Projects\MakeRename\MakeRename\obj\Debug\MakeRename.pdb
