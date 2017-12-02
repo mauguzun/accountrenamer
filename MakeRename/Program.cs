@@ -63,8 +63,8 @@ namespace MakeRename
             try
             {
 
-
                 dr.Url = "https://www.pinterest.com/login/";
+                wait.Until((d) => d.Url == "https://www.pinterest.com/login/");
                 dr.FindElementByName("id").SendKeys(param[0]);
                 dr.FindElementByName("password").SendKeys(param[1]);
                 dr.FindElementByCssSelector("form > button").Click();
